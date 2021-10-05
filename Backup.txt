@@ -1,0 +1,1443 @@
+Technical Word:
+---------------
+
+Rolled Out
+
+OLA and SLA Documents
+
+L0 Estimation
+
+ORA Documents
+
+GIA Means
+
+Retrofit Meeting
+
+Regulator
+
+
+
+Java:
+=========================================
+
+1. Core Java
+
+2. Java 8
+
+3. Java 9
+
+4. Java 11
+
+=========================================
+1. Spring Framework
+
+2. Spring Boot & Spring Security
+
+3. Spring Boot Microservices & Spring Cloud
+
+4. Linux & unix
+
+5. SQL & PLSQL
+
+6. Kubernet
+
+7. JMS & RabitMQ
+
+8. Web services (Soap and Restful Web services)
+
+9. API
+
+10. OAuth token
+
+
+https://www.git-tower.com/learn/git/faq/cherry-pick/   - Soosai shared.
+
+===========================================
+
+1. Angular JS
+
+2. React JS
+
+3. Mongo DB
+
+
+==========================
+
+
+File concept:
+--------------
+
+https://www.geeksforgeeks.org/moving-file-one-directory-another-using-java/
+
+https://howtodoinjava.com/java8/java-8-list-all-files-example/
+
+https://mkyong.com/java/java-how-to-list-all-files-in-a-directory/
+
+https://stackoverflow.com/questions/16433915/how-to-copy-file-from-one-location-to-another-location
+
+===================
+
+ ibnkbdb-mesa-ibanking-foa-core/src/main/java/com/scb/commands/
+  CommonTransferServiceImpl.java
+  ManageBillerCmdImpl.java
+  NewUserLoginTypeCmdImpl.java
+  UINewUserLoginTypeCmdImpl.java
+  UIRALCreditCardUserloginTypeCmdImpl.java
+  
+  ibnkbdb-mesa-ibanking-foa-core/src/main/java/com/scb/nfs/ibank/common/helper  
+  CommonConstant.java
+  
+  ibnkbdb-mesa-ibanking-foa-web/src/main/webapp/newGUI/FundTransfers
+  Regenerate2FAThanku.jsp 
+  
+  Word_1:
+  --------
+  
+  
+Accordingly
+Across Tamilnadu
+After that
+Afterwards - பின்னர்
+Alone
+Another way - மற்றொரு வழி
+Anyway  - எப்படியும்
+Apart from that - தவிர
+Approximatly - தோராயமாக
+Artifact - கலைப்பொருள்
+As I said / told
+As it is - அது போல
+As mentioned previous communication - முந்தைய தொடர்பு குறிப்பிட்டுள்ளபடி
+As of now - இப்போதைக்கு
+As requested - கேட்டு கொண்டதற்கேற்ப
+As well - அத்துடன்
+Assuming - அனுமானித்தல்
+At the Earliest - முடிந்தவரை சீக்கிரமாக
+At what time - எந்த நேரத்தில்
+Before you avail it - நீங்கள் அதைப் பெறுவதற்கு முன்
+Between ibanking and ebbs
+But the problem is
+By 
+By Default
+By the way
+Can I proceed
+Can you hear me
+Capability
+Carry forward
+Clob 
+Contradiction
+Decomition
+Depricate
+Do me a favour
+Double check
+Due To
+Due to some reason
+During deployment
+Early
+Ecnomic affairs
+End of the day
+Enrolment
+Ensure
+Especially
+Etiquettes
+Even
+Except that
+Fiscal
+For Remaining
+For further queries
+Getting Created
+Go to that
+Going forword
+Going on 
+Going to wait
+Gradually
+He assured
+He said
+Helping tendency
+Hold on
+Hole on
+Hopefully
+House Renovate
+How we approach
+How we can do this
+However
+I am not asking to that
+I am not saying
+I belive
+I couldn't hear earlier
+I did optional one
+I didn't get you
+I didn't say
+I don't have the information
+I have no idea
+I have to do it
+I just hold
+I just spoke him
+I just told you
+I kept
+I need your concentration
+I saw that
+I want to see
+I was not there
+I will come there
+I will inform to sriram
+I will take it
+I'm Not Sure
+I'm getting confirmation 
+I'm in this team
+I'm ok with that
+I'm trying to reach you
+If you ask personally
+If you can
+If you got
+If you have any concern
+If you have not got access yet
+If you not sure
+If you wanted to see
+In parlalle
+In such case
+In such way
+Initially
+Instead
+Instead of that - அதற்கு பதிலாக
+Instead of this - இதற்கு பதிலாக
+Is it clear to everyone - இது அனைவருக்கும் தெளிவாக இருக்கிறதா?
+Is there any work? - ஏதாவது வேலை இருக்கிறதா?
+It comes like new requirements
+It is acquire there
+It is coming under - இது கீழ் வருகிறது
+It is not our work - அது எங்கள் வேலை அல்ல
+Itself - தன்னை
+Keep in track - தொடர்ந்து கண்காணிக்கவும்
+Kindly help to close this item by today EOD
+Kindly ignore this mail if already - ஏற்கனவே இருந்தால் இந்த அஞ்சலை தயவுசெய்து புறக்கணிக்கவும்
+Liaise - தொடர்பு
+Let me check it
+Let me complete 
+Let see
+Levarage
+Most probably
+My Understanding is
+No usage found
+Not by
+Not fair
+Not near to me
+Not related to that
+Not required i guess
+Not sure
+Not there
+Nothing but
+Nothing we can do
+Obtain
+Obtained from 
+On board
+On top of it
+On top of that
+Over name you
+Parlally
+Perspective
+Phenomenally
+Please drop mail
+Please process below request
+Pls try once again
+Portfoliyo
+Practice
+Prefered
+Re visited by them
+Render
+Rendering
+Request Completed
+Request you to vote with your likes
+Resilience Mavanger
+Right now
+Root Cause
+Sastaining
+Seems That
+Services Not getting
+Shall we go back to there
+She was consolidate that list
+Similar to
+So waht
+Some Time it is not required
+Some What
+Some credential
+Sorry come again
+Specific changes
+Supress
+Suspect
+Suspend
+Sync
+Tell the truth
+Tempt
+Tentative time line
+Tentativly
+That has been address
+That is in same manner
+That should be fine right
+That would be really helpful
+That's all
+There is no problem
+There we need to check
+They are asking we
+They know that impact
+This is from our side
+Through that way is any problem
+Till further notice / Announcement
+Till that
+Time Being
+Time being
+Timebound
+Tipically
+Tipically
+Under which menu
+Untill
+Via
+We are completly ok
+We are using as per that
+We can plan accordingly
+We will have
+We will ping
+seems weird  - வித்தியாசமாக தெரிகிறது
+What i'm saying is - நான் சொல்வது என்னவென்றால்
+What to do - என்ன செய்ய
+What was the issue?
+What we are going to do this - இதை நாம் என்ன செய்யப் போகிறோம்
+What we can do is - நாம் என்ன செய்ய முடியும் என்பதுதான்
+What we will do - நாம் என்ன செய்ய போகிறோம்
+What you said - நீங்கள் சொன்னது
+Whatever I want - எனக்கு என்ன வேண்டுமானாலும்
+Whats plan today - இன்று என்ன திட்டம்
+When I 
+Where are we
+Which comes under this
+Which has been covered
+Which means
+Which was
+Who will do that - யார் அதை செய்வார்கள்
+Why i'm saying is - நான் ஏன் சொல்கிறேன்
+Worst case
+Would be
+You are higlighting some issues right
+You can reach me
+You know how to procced further?
+You or I
+almost
+any help required
+apart from that
+atlast
+before proceed further
+before that
+before you leave
+capturing screen shots
+classification
+colobrate
+combination of
+correlated
+corresponding
+didn't come back
+do able
+go on
+going forward
+grooming
+he didn't bother
+he would have ask
+highlitted
+my concern is
+no other way
+not aware 
+not communitcated
+not only
+not working
+old defect
+once done i will take
+one by one i'm checking
+out of which
+please proceed
+previously
+since
+some issues may come so that we have to ST
+some of
+spilover
+that we will know
+that's what we discussed stanup call
+then how come
+then only
+they are saying
+this issue higlighted by him
+this way comes to me
+untill unless
+wanted to get
+what i was suggesting
+what i'm trying to say is
+what we need to find out
+whatever they given
+where there are initiating
+whichever
+who will do that job
+why I'm saying that
+will
+will not be 
+with respect
+yet to be seen that
+
+
+
+==============
+
+
+
+
+Technical word:
+-----------------
+Stub
+Mock
+sanity test
+Regression test
+SIT
+AIG
+Paper drop
+Test Evidance
+SIA
+IBM AppScan
+AVT
+UVT
+Regression
+Mock Setup
+More -> 
+Strugling
+OCS
+Age
+DB Age
+BO document
+QeueManager
+splunck
+
+Word_2:
+--------
+
+caused  - Yerpattathu
+Impediment - thadai
+Therefore - yenave
+adequate - pothumana
+https://meet.sc.com/muthuvenkatesh.kumarv/LBZSSLJY
+
+layoff
+
+She is part of my team
+
+How much work required.
+
+still I haven't received.
+
+ambiguty - தெளிவற்ற தன்மை
+
+we can proceed further
+
+don't feasibile.
+
+we will suffiled resources.
+
+I need to respond it.
+
+efficiant manner - திறமையான முறை
+
+Adequate - போதுமான
+
+Over here.
+
+not able to do on time.
+
+Subsequently.
+
+just drop me note.
+
+sry let me complete.
+
+need to segrication.
+
+what you are stating.
+
+not going to support
+
+scale up
+
+we tranget to close it.
+
+Please assist to allot laptop for Rajkamal 
+
+to begin.
+
+to ensure it
+
+as we progress.
+
+heads up
+
+please reach me out
+
+or else.
+
+but keep it mind.
+
+Predominantly.
+
+I mean
+
+preety much
+
+As I told you
+
+I mentioned on call
+
+Rufugh note
+
+will required.
+
+apply third process as well.
+
+go back to the complete time line.
+
+our feasibility.
+
+Internal Initiates.
+
+What is required for
+
+during that time.
+
+haven't got any information.
+
+this question for Ganga
+
+Adequately - போதுமான
+
+yet to be given - இன்னும் கொடுக்கப்படவில்லை
+
+send it appropriate team
+
+lack of communication
+
+what cause the issue.
+
+Dispensation.
+
+straight away - நேராக
+
+post that.
+
+penty of item.
+
+Hence Forth - இனிமேல்
+
+left over part - doubt.
+
+when are we targetting.
+
+bargain
+
+so far
+
+More or less
+
+I unable to add the config file
+
+we will not know
+
+I don't think so
+
+In the sense -
+
+if they dining means.
+
+come back to tamil
+
+can be taken
+
+responded back
+
+insis
+until and unless
+
+you mean
+
+he is not given
+
+pretty much cover
+
+up front
+
+till june
+
+if it is not do able
+
+may not be completed.
+
+Remedition
+
+Refine 
+
+and also
+
+once it is done
+
+could be easy
+
+spill over
+
+will be address
+
+literal or constant
+
+He worried about it
+
+Incase needed.
+
+seems to be ok
+
+as we spoke.
+
+amended
+
+have to verify
+
+go through 
+
+I hope
+
+feel free to next level
+
+Quite long Back.
+
+neglajible
+
+Fortunatly
+
+intrcating
+
+interfiaring
+
+frequently updating
+
+appropriate way
+
+loud and clear for me.
+
+yet to 
+
+we need to take it
+
+again back
+
+Accomodation.
+
+come with appropriate.
+
+what i suggesting is
+
+as per our earlier discussion
+
+pls take it as 
+
+Retrospective
+
+as well - Athepol
+
+we have to work upcoming changes
+
+there are some concern
+
+we convince them
+
+due to that
+
+6th of June
+
+necessory document
+
+one update for praveen
+
+same way we can 
+
+Assess
+
+you loop me
+
+we can combine
+
+It seens 
+
+articulate - ucharika
+
+anything else at your end
+
+give on priority way
+
+Shortly we can get it
+
+retrospective 
+
+perspective
+
+different from Production env
+
+pls do so
+
+good to go
+
+hectic - parabarapu
+
+Segrigatted
+
+Rapid up fast.
+
+apropriate tool
+
+Request to advise them
+
+will check it out
+
+I wantted to check with Mr Kumar.
+
+Couple of minute.
+
+bring up.
+
+brought up.
+
+Sincer advise is
+
+retropet commits.
+
+passed across you.
+
+yet to raise
+
+NO other option.
+
+their responsibility
+
+send formal mail to them
+
+whatever id we have
+
+By the time
+
+they asked me to do
+
+yeah
+
+knoun of the issues
+
+keep up that good work.
+
+get it regularize
+
+we can help you out.
+
+be agreed upon
+
+portfolio
+
+going to look on that
+
+already informed that, team is working on that
+
+check with team to take with further.
+ 
+ Which are the item
+ 
+ due to some reason 
+ 
+ Why it is getting error
+   
+ Which are the item
+ 
+ due to some reason 
+ 
+ Why it is getting error
+ 
+ potentially.
+ 
+ Change Closure. 
+ 
+ most probably
+
+Word:
+-----
+
+1. perusal
+2. Your priority would be 
+3. will come with complete picture
+4. Better to 
+5. This is put as priority
+6. Will come up with plan
+7. Side by Side
+8. where as
+9. accumulate
+10 Majority 
+11.High recomadation is
+12.other wise it will be trouble.
+13.Release item Persfective.
+
+
+feasibility.
+
+Isolation.
+
+we are line
+
+We have conclude
+
+cover it up
+
+which you have knowledge
+
+you have to collabrate with team.
+
+it will be ease
+
+Susequtly will discuss.
+
+things is like
+
+pro long delay
+
+I'm checking feasibile.
+
+got point.
+
+risk in place.
+
+consequently
+
+raised certine issues.
+
+that will short it out.
+
+didn't get chance to complete it.
+
+Institution Name
+
+This is what
+
+which means
+
+boundry cases
+
+addition to
+
+purly its like that
+
+hope sathil will complete and revert
+
+Or else
+
+proceed accordingly 
+
+other stuff
+
+proposed Date
+
+as per our sprint plan
+
+we need to acknowledge.
+
+defering
+
+or either
+
+clob this changes.
+
+maynot happened.
+
+came to know.
+
+basically I want to understand.
+
+Coalit
+
+I hope you aware of this
+
+periodical
+
+I have asked.
+ 
+shall i disable it now?
+and do what?
+
+expectation was
+
+ontrepiner
+
+afford
+
+there is some expectation.
+
+i send which you need
+
+I think Tamil will aware.
+
+I have one more question.
+
+I don't think so.
+
+I think that is good Enough.
+
+We have revised items.
+
+let me work on that.
+
+we can catch up offline.
+
+safer side.
+
+you  may check and advise.
+
+Respect to 
+
+thereby
+
+Try from new android apps but the issues still persist.
+
+Will send out the invite shortly.
+
+for others.
+
+will give concurrency.
+
+I need to double check with him
+
+yesterday I made two commits.
+
+hectic - பரபரப்பானது
+
+they have agreed 
+
+courtesy follow up
+
+missed out.
+
+Please do the appropriate change.
+
+we can have
+
+they also aware
+
+why not other countries.
+
+based on their availability.
+
+some communication is going on.
+
+they are saying 
+
+sry i'm late
+
+we will check feasibility.
+
+let them execute in parallel
+
+if you gone through it
+
+orgid nothing but 
+
+Go ahead
+
+assume that
+
+based on pachai input
+
+complex one or Easy
+
+solution approach
+
+stating that 
+
+well in advance
+
+look out
+
+we can't accommodate.
+
+we have exclusing call with them.
+
+I have attached Email itself.
+
+Rajkamal here
+
+they may aware.
+
+conservative.
+
+just wanted to say.
+
+
+My words: Important words
+--------------------------
+
+Though
+
+All Though
+
+Even Though
+
+In Spite of
+
+Despite
+
+technical word:
+---------------
+Remody group
+
+Listener Log.
+
+POC
+
+Decomistion
+
+Sparonet
+
+MQ Server and MQ.log Details need to know
+
+dispensation.
+
+ETA
+
+Release outage.
+
+outage
+
+decomposistion.
+
+Expediate
+
+Regression Testing means.
+
+Technologie:
+-------------
+1. Rundeck
+2. Spinakers
+3. Devops
+4. OCP
+5. Kubernate
+6. 
+
+================================
+
+20-02-2021:
+-----------
+Although - என்றாலும், என்றாலும்
+acquires - பெறுகிறது, அடை
+ambiguity - தெளிவின்மை, சந்தேகம்
+bound - பிணைக்கப்பட்டுள்ளது
+context - சூழல்
+determination - உறுதியை, தீர்மானம்
+determined - தீர்மானிக்கப்படுகிறது
+efficient - திறமையான
+However - எனினும்
+implicitly - மறைமுகமாக
+invoked - செயல்படுத்தப்பட்டது
+invocation - வேண்டுகோள்
+May vary - மாறுபடலாம்
+Moreover - மேலும்
+on demand - தேவைக்கேற்ப
+paradigm - முன்னுதாரணம்
+realistic - யதார்த்தமான
+remain - இருக்கும்
+renders- வழங்குகிறது
+Since - அதன்பிறகு,  முதல்
+Therefore - எனவே
+Thus - இதனால்
+unless - தவிர
+upon - மீது
+various - பல்வேறு
+vary - மாறுபடும்
+Whenever - எப்போது
+Whenever we need - உங்களுக்கு தேவையான போதெல்லாம்
+whereas - அதேசமயம்
+
+
+Grammer :
+-----------
+
+at the time of  - அந்த நேரத்தில்
+cannot be - இருக்க முடியாது
+can not use - பயன்படுத்த முடியாது
+In other words - வேறு வார்த்தைகளில் கூறுவதானால்
+In such case - அத்தகைய விஷயத்தில்
+in this case - 
+in any case - எந்தவொரு சந்தர்ப்பத்திலும்
+In this process - இந்த செயல்பாட்டில்
+must not have - இருக்கக்கூடாது
+may or may not be same value - அதே மதிப்பாக இருக்கலாம் அல்லது இல்லாமல் இருக்கலாம்
+used in many context - பல சூழலில் பயன்படுத்தப்படுகிறது
+
+
+Mitication
+
+Word_3:
+--------
+
+
+Abbreviations - சுருக்கங்கள்
+Acronyms - சுருக்கெழுத்துக்கள்
+Adherence - பின்பற்றுதல்
+Being - இருப்பது
+Beside - அருகில்
+behind - பின்னால்
+Capability - திறன்
+Cater - பூர்த்தி, உணவு வழங்கு
+Compliance - உடன்பாடு
+Constraints - தடைகள்
+Could I be
+Could be
+Definitions - வரையறைகள்
+Integration - ஒருங்கிணைப்பு
+Integreation 
+Intention - நோக்கம், கருத்து
+Interpret - விளக்குவது, உட்பொருளை வெளிப்படுத்து
+Like will go
+Objectives - குறிக்கோள்கள்
+Outside - வெளியே, மேம்பறத்தில், வெளிப்பறத்தில்
+Partnerships - கூட்டாண்மை
+Persisted - தொடர்ந்தது
+Persisting, persistent - தொடர்ந்து
+Possibly - சாத்தியமான
+Principle - கொள்கை
+Recommendation - பரிந்துரை
+Reside - வசிக்க, தங்கி இரு
+Resilience - விரிதிறன்,  எதிர்த்தெறிதல்
+Segments - பிரிவுகள், வெட்டுக்கூறு
+Thus - இதனால், இவ்வாறு, இப்படி
+Uplift - உயர்த்துதல்
+account over here
+across different marketing
+of course - நிச்சயமாக
+along the way
+any of the product details.
+arrangement - ஏற்பாடு
+as you know probably
+assumption - நினைத்தல்,  நினைத்துக்கொண்ட பொருள்
+channels security management
+components - கூறுகள்
+conceptual - கருத்துரு, பொதுக் கருத்துக்கள் சார்ந்த
+decided upon  
+efficient of development - வளர்ச்சியின் திறமையானது
+elements - கூறுகள்
+elsewhere - வேறு இடங்களில்
+evaluated - மதிப்பீடு செய்யப்பட்டது
+few of the information could be available - சில தகவல்கள் கிடைக்கக்கூடும்
+finite - வரையறுக்கப்பட்ட
+gonno do - செய்யப்போகிறது
+is being used - பயன்படுத்தப்படுகிறது
+labling
+more of - மேலும்
+more of you - உங்களில் அதிகமானவர்கள்
+nothing want to - எதுவும் விரும்பவில்லை
+personalization - தனிப்பயனாக்கம்
+pertaining - சம்பந்தப்பட்ட
+preferences - விருப்பத்தேர்வுகள்
+privileged - சலுகை பெற்ற
+product discovery page
+projection - திட்டம்
+relevant - தொடர்புடையது
+significant - குறிப்பிடத்தக்க
+this is something
+transit - போக்குவரத்து
+throughput - உற்பத்தி
+truly 
+will be smooth
+ability - திறன்
+He preferred - அவர் விரும்பினார்
+
+
+Interview Questions:
+--------------------
+Collection_Concepts:
+--------------------
+Collection Concepts:
+--------------------
+
+List
+
+ArrayList
+
+Vector
+
+Stack
+
+LinkedList
+
+
+-----------------------
+Set
+
+LinkedHashSet
+
+HashSet
+
+SortedSet
+
+TreeSet
+
+
+------------------------
+
+Queue
+
+PriorityQueue
+
+DeQueue
+
+ArrayDequeu
+
+======================================
+
+
+Map
+
+AbstractMap
+
+HashMap
+
+EnumMap
+
+SortedMap
+
+NavigableMap
+
+TreeMap
+
+Interview Questions:
+------------------------
+Core Java
+
+Collection
+
+Multithreading with collections
+
+Spring 
+
+Spring Boot
+
+annotation
+
+BitBucket
+
+Jenkins
+
+WireMock
+
+Java 8 Optional Examples:
+--------------------------
+https://www.javacodegeeks.com/2020/09/java-8-optional-tutorial-with-examples.html
+
+firewall and security
+
+
+
+==========================================
+
+1. Basics of Java
+2. Object-Oriented Programming in Java
+3. Collections Overview
+4. Java Lambda Expressions
+5. Java Streams
+6. Array List
+7. Linked List
+8. Stack
+9. Queue
+10. Deque
+11. Priority Queue
+12. HashSet and LinkedHashSet
+13. TreeSet
+14. HashMap and LinkedHashMap
+15. TreeMap
+16. String
+17. Comparator and Comparable
+18. Arrays Class
+19. Collections Class
+20. Sorting
+
+
+==============================================  
+
+https://www.hackerrank.com/domains/java/java-advanced/page/2   - Very Important
+
+
+Dinesh kumar shared me
+
+Core Java:
+----------
+
+1. JVM JDK JRE
+2. meomerry stack heap
+3. GC 
+4. Memmory m hidden space , yeng generation old genreation, perm genreation -> metaspace
+5. 
+
+String 
+
+Object methods need to know
+
+
+construct
+static
+
+final finally finalize
+
+class loader , bootstrap loader, extenstion,
+
+thread 
+
+joins, wait , sleep
+
+	volatile
+
+serialization 
+
+	version UID
+
+collections
+
+	concurrency api	
+	completable feature	
+
+exception
+
+ outofmemory
+ stackoverflow 
+	classnotfoundexception
+	noclassfound error	
+	
+	concurrent modification exception
+	
+	
+-
+	
+Binary tree and binary search tree what is differenc
+
+HashMap internall code structure
+
+
+
+------------------------------
+
+java 8 :
+--------
+
+1. Lambda expressions vs functional interface -> default static
+
+2. foreach - default methods
+
+3. diomend problem 
+
+4. streams intermediate option  , ternary options
+
+5. Optionals
+
+6. 
+
+
+============================
+
+Json Minifiers
+
+
+	
+	
+	
+	https://www.javainuse.com/java/java8_intvw
+	
+	https://www.javainuse.com/jwtgenerator
+	
+	
+
+	
+	
+ 
+
+	
+	
+
+	
+
+
+
+
+
+
+Spring Boot & MicroServices:
+----------------------------
+
+Spring & Spring Boot:
+
+1.	What is the difference b/w spring and spring boot 
+2.	Spring boot advantages 
+3.	How to disable autoconfiguration for any one class in spting boot
+4.	What are the annoatations used in spring boot
+5.	What is the diff b/w @Controller and @Restcontroller
+6.	Spring bean life cycles 
+7.	Spring bean scopes 
+8.	What is dependency injection 
+9.	How configure data base using spring boot
+10.	How connect multiple data bases using spring boot
+11.	What is the use of spring boot actuator 
+12.	When we will get ambiguous bean creation exception  
+13.	How to resolve circular dependency exception 
+14.	What is the use @SpringBootApplication annotation and how many annotations it internally have.
+15.	What is the use of @Required annotation
+16.	What is the use of @Primary annotation
+17.	What are all the types of injections available in spring & which one is best
+18.	What is the use of profiles in spring boot 
+19.	What is the use aop and how to write point cut expressions ?
+20.	What is the diff between spring jdbc template and jdbc
+21.	How many ways we can read the values from yml or properties files
+22.	What are all the spring boot starters u have used
+23.	How spring batch will work
+24.	How schedule a job using spring boot
+
+Spring Boot & Spring data Jpa:
+
+1.	How to write user defined querys in spring data jpa
+2.	What is the use of native and named queries
+3.	What is meant by durty read and how to resolve it.
+4.	What is the use of transaction management 
+5.	What is the use of isolation and propagation levels in transaction management 
+6.	Hibernate entity life cycles 
+7.	What is the dif b/w save and saveOrUpdate
+8.	Diff b/w jdbc and hibernate
+9.	Diff b/w hibernate and jp
+10.	Query for 2nd highest salary 
+11.	Diff b/w drop and delete query 
+12.	What are the functions used in mysql 
+13.	All join querys(inner,outer,cross)
+14.	Diff b/w hql and sql
+15.	Diff b/w native and named querys
+
+Spring boot and Rest:
+
+1.	What is meant by rest? And what is the advantage of using rest?
+2.	What is the diff between rest and soap
+3.	What are all the annotations u have used for rest and describe each one
+4.	What is the diff b/w put and patch methods 
+5.	What is the diff b/w @PathVariable and @RequestParam
+6.	Write one single method for doing save and get operations 
+7.	What are all the http status codes available and describe each
+8.	What is the use of @Requestmapping annotation
+9.	Can we use @RequestMapping for all crud operation 
+
+Microservices :
+  
+1.	What is the advantages of using ms
+2.	What is the dis advantages of using ms
+3.	How to implement fault tolerance in our micro services application
+4.	How to maintain centralized log mechanism 
+5.	What are all the 12 principles we need to use for creating the micro services
+6.	Which discovery client you are using
+7.	Which gateway you are using 
+8.	How to deploy ur application
+9.	How can we call one microservice in another microservices
+10.	How to maintain the config in centralized repos
+11.	What are all the methods available in RestTemplate and what is the use of each 
+
+
