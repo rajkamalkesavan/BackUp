@@ -1,0 +1,22 @@
+1. Web Application
+2. Microservices
+3. Mobile Application(s)
+4. MongoDB
+5. Kafka
+6. Scalability
+7. Performance & Throughput
+8. Technology Stack & Standards Check
+9. DevOps, Environments & Automation
+10. AWS
+
+
+
+11. Oauth2
+12. PostMan
+13. SpringBoot
+14. Java 11
+15. Logging  - ELK
+16. React JS
+17. AWS EKS
+18. Spring Boot (RESTful API Framework)
+19. 
